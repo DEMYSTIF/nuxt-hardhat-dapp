@@ -1,18 +1,19 @@
 
-# Nuxt-Hardhat-Dapp
+# Nuxt-Hardhat-DApp
 
 A simple certificate-issuing dapp example.
 
 
 ## 🛠 Built With
 
-<p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxt" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://web3js.readthedocs.io/en/v1.8.1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3js" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-</p>
+<div align="left">
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DEMYSTIF/DEMYSTIF/bc1af50088a86d0c03085862403738d7884e27b7/assets/icons/nodejs.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DEMYSTIF/DEMYSTIF/a62281809c26352a312d102cc87ee676859f3263/assets/icons/nuxt.svg" width="36" height="36" alt="Nuxt" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DEMYSTIF/DEMYSTIF/bc1af50088a86d0c03085862403738d7884e27b7/assets/icons/javascript.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DEMYSTIF/DEMYSTIF/bc1af50088a86d0c03085862403738d7884e27b7/assets/icons/solidity.svg" width="36" height="36" alt="Solidity" /></a>
+<a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DEMYSTIF/DEMYSTIF/bc1af50088a86d0c03085862403738d7884e27b7/assets/icons/web3js.svg" width="36" height="36" alt="web3js" /></a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DEMYSTIF/DEMYSTIF/a62281809c26352a312d102cc87ee676859f3263/assets/icons/hardhat.svg" width="36" height="36" alt="Hardhat" /></a>
+</div>
 
 
 ## ⚙️ Run Locally
